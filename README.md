@@ -68,7 +68,7 @@ V.I.S.I.O.N/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/jishanahmed-shaikh/V.I.S.I.O.N.git
+   git clone https://github.com/kaiser-mn/V.I.S.I.O.N.git
    cd V.I.S.I.O.N
    ```
 2. **Install dependencies**
