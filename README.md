@@ -163,7 +163,7 @@ This project builds upon the incredible work of:
 
 Having issues or questions? We're here to help!
 
-**Contact**: kaiser.momin47@gmail.com / shaikhjishan255@gmail.com
+**Contact**: kaiser.momin47@gmail.com / shaikhjishan255@gmail.com / sohampalnitkar2810@gmail.com
 
 ## 📄 License
 
